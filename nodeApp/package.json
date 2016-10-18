@@ -1,0 +1,27 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Test app for docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlkMdaFknRik/nodeapp.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Rick Sanders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlkMdaFknRik/nodeapp/issues"
+  },
+  "homepage": "https://github.com/SlkMdaFknRik/nodeapp#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  }
+}
